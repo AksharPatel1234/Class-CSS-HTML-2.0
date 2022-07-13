@@ -1,0 +1,27 @@
+p{
+    color:blueviolet;
+}
+h3{
+    font-size: 20px;
+}
+
+*{
+    border: 2px solid black;
+}
+
+.header{
+    background-color: blue;
+}
+
+.body{
+    background-color: rgb(21, 54, 54);
+    display:flex;
+    justify-content: space-evenly;
+  
+}
+
+.footer{
+    background-color: seagreen;
+    display: flex;
+    justify-content: space-around;
+}
